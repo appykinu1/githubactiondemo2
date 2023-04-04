@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>global.stry1234</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>stry1234</name>
+        <script><![CDATA[var stry1234 = Class.create();
+stry1234.prototype = {
+    initialize: function() {
+    },
+
+	//si for stry
+	
+    type: 'stry1234'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-04 14:13:47</sys_created_on>
+        <sys_id>557f69309786211065b63d400153af30</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>stry1234</sys_name>
+        <sys_package display_value="githubactiondemo2" source="7a1c293c9746211065b63d400153af04">7a1c293c9746211065b63d400153af04</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="githubactiondemo2">7a1c293c9746211065b63d400153af04</sys_scope>
+        <sys_update_name>sys_script_include_557f69309786211065b63d400153af30</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-04 14:13:47</sys_updated_on>
+    </sys_script_include>
+</record_update>
